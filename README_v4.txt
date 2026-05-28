@@ -1,0 +1,1 @@
+SUN HOOR / Nasim Hoor website version 4. Updates: original front-facing portrait added to About, duplicate red circular painting removed from gallery, warm light theme retained. Open index.html in a browser.
